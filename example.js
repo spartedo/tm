@@ -13,4 +13,4 @@ let object = {
   "surname": 1
 };
 
-console.log(`We hvae a value:`, object);
+console.log(`We have a value:`, object);
